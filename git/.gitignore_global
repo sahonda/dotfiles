@@ -1,0 +1,9 @@
+# Private key files
+*.pem
+*.priv
+*.prv
+id_dsa*
+id_ecdsa*
+id_ed25519*
+id_rsa*
+
