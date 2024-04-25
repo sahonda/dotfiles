@@ -10,4 +10,8 @@ Make programming and homelab administration easier
 - KISS
 	- Don't overdo customizations
 	- Don't include huge files like fonts
+- Installation
+	- Work in progress (possibly very long)
+	- Will need a single tool to install--like make or a script (install.sh)
+	- Will take a command line argument to install user's config or system-wide config (that requires root)
 
