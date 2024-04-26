@@ -1,1 +1,1 @@
-set -Eeu -o pipefail -o noclobber
+set -Eu -o pipefail -o noclobber
