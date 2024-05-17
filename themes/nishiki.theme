@@ -1,0 +1,61 @@
+! Color theme "Nishiki"
+! These colors are chosen to relieve eyesore. 
+! Colors do not stand out too much against others. 
+! They also do not hide in background (like blue and red on black, in standard ANSI colors)
+! Standard colors are lower in intensity while bold (bright) colors are higher.
+
+! special
+! foreground = Kasumi (霞)
+! background = Mmoshio Cha (百入茶)
+*.foreground:   #c8c2c6
+*.background:   #1f3131
+*.cursorColor:  #c8c2c6
+
+! black
+! color0 = Hishio (醤)
+! color8 = Kokutan (黒檀)
+*.color0:       #331818
+*.color8:       #250d00
+
+! red
+! color1 = Enji (臙脂)
+! color9 = Shoujou Hi (猩々緋)
+*.color1:       #b94047
+*.color9:       #ce3a27
+
+! green
+! color2 = Aoni (青丹)
+! color9 = Moegi (萌黄)
+*.color2:       #99ab4e
+*.color10:      #9cce27
+
+! yellow
+! color3 = Ukon (鬱金)
+! color10 = Kariyasu (苅安)
+*.color3:       #cca727
+*.color11:      #f5e56b
+
+! blue
+! color4 = Aofuji (青藤)
+! color12 = Ruri (瑠璃)
+*.color4:       #84a2d4
+*.color12:      #2767ce
+
+! magenta
+! color5 = Momohana (桃花)
+! color13 = Tsutsuji (躑躅)
+*.color5:       #e198b4
+*.color13:      #ce4482
+
+! cyan
+! color6 = Seiheki (青碧)
+! color14 = Asagi (浅黄)
+*.color6:       #478383
+*.color14:      #00a3af
+
+! white
+! color7 = Gin Nezu (銀鼠)
+! color15 = Kaihaku (灰白)
+*.color7:       #afafb0
+*.color15:      #e9e4d4
+
