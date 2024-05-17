@@ -9,7 +9,7 @@ set showcmd
 "" Visuals
 set number
 set cursorline
-set cursorcolumn
+""set cursorcolumn
 set virtualedit=onemore
 set smartindent
 set visualbell
